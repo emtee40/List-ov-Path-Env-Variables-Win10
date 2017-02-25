@@ -95,7 +95,6 @@ You can open **PowerShell**, type `Get-ChildItem Env:`, and press Enter to displ
 [2]: https://www.tenforums.com/members/brink.html
 [3]: https://cdn.tenforums.com/images/ranks/MVP_insider.png
 [4]: https://cdn.tenforums.com/images/ranks/tef_admin1.png
-[5]: https://cdn.tenforums.com/images/buttons/printer.gif "Show Printable Version"
 [6]: https://cdn.tenforums.com/images/infosmall10.png "information"
 [7]: http://en.wikipedia.org/wiki/Environment_variable
 [8]: https://cdn.tenforums.com/images/notesmall10.png "Note"
@@ -103,5 +102,3 @@ You can open **PowerShell**, type `Get-ChildItem Env:`, and press Enter to displ
 [10]: https://www.tenforums.com/tutorials/3123-clsid-key-guid-shortcuts-list-windows-10-a.html
 [11]: https://www.tenforums.com/tutorials/3109-shell-commands-windows-10-a.html
 [12]: https://www.tenforums.com/tutorials/77458-rundll32-commands-list-windows-10-a.html
-
-**Print:** ![Show Printable Version][5]
