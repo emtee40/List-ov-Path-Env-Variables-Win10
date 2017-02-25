@@ -1,5 +1,5 @@
-Complete List of Environment Variables in Windows 10
-====================================================
+Full List of Environment Variables in Windows 10
+================================================
 
 # ![information][6]   Information
 
